@@ -1,6 +1,6 @@
-# VGON: Variational Quantum Optimization with Generative Networks
+# My VGON Implementation
 
-This project is a Python implementation of the VGON (Variational Quantum Optimization with Generative Networks) algorithm, as described in the paper [Variational Optimization for Quantum Problems using Deep Generative Networks](https://arxiv.org/abs/2203.04316).
+This project is my Python implementation of the VGON (Variational Quantum Optimization with Generative Networks) algorithm, as described in the paper [Variational Optimization for Quantum Problems using Deep Generative Networks](https://arxiv.org/abs/2203.04316). [The author also implemented](https://github.com/zhangjianjianzz/VGON).
 
 VGON is a hybrid quantum-classical algorithm that uses a generative model (a Variational Autoencoder) to find the optimal parameters for a quantum circuit. This approach can be used to solve a variety of quantum optimization problems, such as finding the ground state of a molecule or solving combinatorial optimization problems.
 
